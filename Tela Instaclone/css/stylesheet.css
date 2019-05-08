@@ -1,7 +1,16 @@
-#mainSection{
+body{
+  background-color: #D9D9D9;
+}
+
+h1{
+  font-family: 'Nanum Gothic', sans-serif;
+}
+
+.main-panel{
   margin: 0 auto;
-  width: 600px;
-  background-color: gray;
+  width: 300px;
+  background-color: white;
   font-family: sans-serif;
   text-align: center;
+  font-family: 'Gugi', cursive;
 }
